@@ -69,4 +69,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-sawatzky&layout=compact&theme=radical)
 
 
-Winnipeg, MB | [matthewrsawatzky@gmail.com](mailto:matthewrsawatzky@gmail.com) | [LinkedIn](www.linkedin.com/in/matthew-sawatzky) | [Portfolio](https://matthewsawatzky-portfolio.vercel.app/)
+Winnipeg, MB | [matthewrsawatzky@gmail.com](mailto:matthewrsawatzky@gmail.com) | [LinkedIn](https://www.linkedin.com/in/matthew-sawatzky/) | [Portfolio](https://matthewsawatzky-portfolio.vercel.app/)
