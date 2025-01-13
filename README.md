@@ -1,30 +1,34 @@
-# Matthew Sawatzky
+# Hi there, I'm Matthew Sawatzky 👋
 
-Winnipeg, MB | [matthewrsawatzky@gmail.com](mailto:matthewrsawatzky@gmail.com) | [LinkedIn](www.linkedin.com/in/matthew-sawatzky) | [GitHub](#) | [Portfolio](https://matthewsawatzky-portfolio.vercel.app/)
+## About Me
 
----
+- 🌱 I have a passion for tech and web development and love working on new projects. I have graduated from Red River College with a diploma in Full Stack Web Development and am currently pursuing new opportunities for employment.
+- 📫 How to reach me: [matthewrsawatzky@gmail.com](mailto:matthewrsawatzky@gmail.com) [204-226-3534]
+- ⚡ Fun fact: I love music, nfl and rock climbing.
 
-## Summary
-
-I'm a **Full Stack Web Developer** with a passion for crafting innovative, user-centric web applications. With expertise in front-end design and back-end development, I thrive in creating unique and engaging user experiences. My strong communication skills and proficiency in modern technologies like **TypeScript**, **React**, and **Prisma** enable me to collaborate effectively and deliver impactful projects. I'm committed to continuous learning and have gained valuable skills through education, hands-on experience, and client projects.
-
----
-
-## Skills
+## My Skills
 
 ### Programming Languages
-- **JavaScript** (ES6+), **TypeScript**, **HTML/CSS**, **PHP**, **Java**, **Python**, **Ruby**, **SQL**
+- JavaScript
+- TypeScript
+- HTML & CSS
+- SQL
+- Java
+- Python
+- PHP
 
-### Frameworks and Libraries
-- **React**, **Next.js**, **Tailwind CSS**, **Bootstrap CSS**, **Rails**, **Flask**
+### Tools & Technologies
+- Git & GitHub
+- Docker
+- Kubernetes
+- AWS
+- TensorFlow
 
-### Tools and Platforms
-- **Docker**, **Postman**, **Git**, **Prisma**, **Microsoft Office**
-
-### Cloud Services
-- **AWS**, **Firebase**, **Supabase**
-
----
+### Frameworks & Libraries
+- React
+- Node.js
+- Flask
+- Django
 
 ## Projects
 
@@ -37,45 +41,36 @@ I'm a **Full Stack Web Developer** with a passion for crafting innovative, user-
 - Collaborated in an agile team environment, participating in sprints, stand-ups, and code reviews.
 - Facilitated client meetings to align technical implementation with stakeholder expectations.
 
-### [BlueSky Fitness](#)
+### [BlueSky Fitness](https://blueskyfitnessandhealthcoaching.vercel.app/)
 **Freelance Developer** (Aug 2024 – Nov 2024)  
 - Created a responsive landing page for a local fitness studio using **React** and **TypeScript**.
 - Designed a clean, accessible layout to cater to an older demographic, ensuring usability and clarity.
 - Enhanced the user experience with smooth animations using **Tailwind CSS**, providing a dynamic yet simple interface.
 - Delivered a tailored solution by working closely with the client to meet their specific needs.
 
-### [Pokédex](#)
+### [Pokédex](https://msawatzky-react-pokedex.vercel.app/pokemon/1)
 **Personal Project** (Aug 2024 – Nov 2024)  
-- Created a responsive landing page for a local fitness studio using **React** and **TypeScript**.
-- Designed a clean, accessible layout to cater to an older demographic, ensuring usability and clarity.
-- Enhanced the user experience with smooth animations using **Tailwind CSS**, providing a dynamic yet simple interface.
-- Delivered a tailored solution by working closely with the client to meet their specific needs.
+- Developed a Pokédex web application as a personal project.
+- Built using **React** and **TypeScript** for the front-end.
+- Designed a clean and accessible user interface with **Tailwind CSS**.
+- Implemented responsive design to ensure usability across various devices.
+- Integrated with a Pokémon API to fetch and display detailed information about different Pokémon.
 
-### [RoboScape](#)
+### [RoboScape](https://roboscape.vercel.app/)
 **Personal Project** (Aug 2024 – Nov 2024)  
-- Created a responsive landing page for a local fitness studio using **React** and **TypeScript**.
-- Designed a clean, accessible layout to cater to an older demographic, ensuring usability and clarity.
-- Enhanced the user experience with smooth animations using **Tailwind CSS**, providing a dynamic yet simple interface.
-- Delivered a tailored solution by working closely with the client to meet their specific needs.
+- Developed a RoboScape JS game as a personal project.
+- Worked with Kaboom JavaScript game engine.
+- Implemented game logic and interactive features using **JavaScript**.
+- Created engaging user experiences with smooth animations and intuitive controls.
 
----
 
-## Education
+## My GitHub Stats
 
-### [Red River College Polytechnic](https://www.rrc.ca/)
-**Full Stack Web Development Diploma**  
-Winnipeg, MB (Aug 2023 - Sep 2024)  
-- **Cumulative GPA**: 3.8  
-- Relevant Coursework: Front-End Development, Back-End Development, Agile Development, Database Management, Web Security  
-- Certifications: AWS Academy Cloud Foundations Certificate, React and Next.js training via Udemy  
+![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthew-sawatzky&show_icons=true&theme=radical)
 
----
+## Top Languages
 
-## Get in Touch
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-sawatzky&layout=compact&theme=radical)
 
-Feel free to connect with me to discuss projects, collaboration opportunities, or any ideas you'd like to share!
 
-- **Email**: [matthewrsawatzky@gmail.com](mailto:matthewrsawatzky@gmail.com)  
-- **LinkedIn**: [LinkedIn Profile](#)  
-- **GitHub**: [GitHub Profile](#)  
-- **Portfolio**: [View Portfolio](#)
+Winnipeg, MB | [matthewrsawatzky@gmail.com](mailto:matthewrsawatzky@gmail.com) | [LinkedIn](www.linkedin.com/in/matthew-sawatzky) | [Portfolio](https://matthewsawatzky-portfolio.vercel.app/)
