@@ -64,10 +64,6 @@
 - Created engaging user experiences with smooth animations and intuitive controls.
 
 
-## My GitHub Stats
-
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthew-sawatzky&show_icons=true&theme=radical)
-
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-sawatzky&layout=compact&theme=radical)
